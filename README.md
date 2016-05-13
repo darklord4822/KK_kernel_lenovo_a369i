@@ -12,7 +12,6 @@ Working:
 and other.
 NOT Working:
 1) Accelerometer
-==============
 Build Command:
 
 cd KK_kernel_lenovo_a369i
