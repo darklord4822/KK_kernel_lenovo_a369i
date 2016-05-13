@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/imgsensor/src/mt6572/hi253_yuv/built-in.o :=  /home/darklord4722/working_directory/4027d/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o drivers/misc/mediatek/imgsensor/src/mt6572/hi253_yuv/built-in.o drivers/misc/mediatek/imgsensor/src/mt6572/hi253_yuv/hi253yuv_Sensor.o 
