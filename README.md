@@ -2,7 +2,7 @@ Lenovo a369i source 3.4.67
 ===============
 When using these sources to indicate in credits SRT team!!!
 ===============
-Working
+Working:
 1) RIL
 2) Camera
 3) Touch
